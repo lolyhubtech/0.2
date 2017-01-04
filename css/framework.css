@@ -1,0 +1,70 @@
+/****************** Start: Bootstrap Reset *********************/
+
+/***** no border radius *****/
+.no-border-radius{
+    border-radius: 0;
+}
+/***** no border radius *****/
+.no-border-right{
+    border-right: none;
+}
+/****************** End: Bootstrap Reset *********************/
+
+
+/***** line below title *****/
+.has-line{
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+/***** colourful line *****/
+.colourful-line{
+    background: url(../images/footerLine.png);
+    height: 5px;
+    width: 100%;
+    background-size: contain;
+    margin-top: 12px;
+}
+
+
+/***** theme colors *****/
+.orange-color{
+    color: #fdad1e;
+}
+.orange-background{
+    background: #fdad1e;
+}
+.blue-color{
+    color: #3578b6;
+}
+.blue-background{
+    background: #3578b6;
+}
+.green-color{
+    color: #72b029;
+}
+.green-background{
+    background: #72b029;
+}
+.red-color{
+    color: #ed1b36;
+}
+.red-background{
+    background: #ed1b36;
+}
+
+/***** no padding *****/
+.no-padding{
+    padding:0;
+}
+
+/***** cart icons *****/
+.extra-icons{
+    color: #747474;
+    float: right;
+    font-size: 13px;
+}
+.extra-icons span{
+    margin-right: 6px;
+    cursor: pointer;
+}
